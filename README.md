@@ -77,4 +77,4 @@ Rust owns file dialogs, scoped reads, Markdown parsing, and file watching in `sr
 
 Copyright (C) 2026 eobraw.
 
-MarkSunzun is licensed under the [GNU General Public License, version 3 only](LICENSE) (`GPL-3.0-only`). You may redistribute and modify it under those terms. It is distributed without any warranty; see the license for details.
+MarkSunzun is licensed under the [MIT License](LICENSE). You may use, modify, and redistribute it, including commercially, provided the copyright and license notices are preserved. It is distributed without any warranty; see the license for details.
