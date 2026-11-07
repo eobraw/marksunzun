@@ -2,6 +2,7 @@
 name = "marksunzun"
 version = "0.1.0"
 description = "A quiet, local-first Markdown reader"
+license = "GPL-3.0-only"
 edition = "2021"
 
 [lib]

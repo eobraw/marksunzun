@@ -72,3 +72,9 @@ cargo test --manifest-path src-tauri/Cargo.toml --lib
 ```
 
 Rust owns file dialogs, scoped reads, Markdown parsing, and file watching in `src-tauri/src/lib.rs`. The reader interface and styles live in `src/main.ts` and `src/style.css`.
+
+## License
+
+Copyright (C) 2026 eobraw.
+
+MarkSunzun is licensed under the [GNU General Public License, version 3 only](LICENSE) (`GPL-3.0-only`). You may redistribute and modify it under those terms. It is distributed without any warranty; see the license for details.
